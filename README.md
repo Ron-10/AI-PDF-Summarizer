@@ -13,3 +13,5 @@ Upload any PDF and get an instant summary using ChatGPT (via LangChain + Streaml
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+Made with ❤️ by Roney Karki
