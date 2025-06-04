@@ -5,3 +5,4 @@ openai
 pypdf
 PyMuPDF
 python-dotenv
+google-generativeai
